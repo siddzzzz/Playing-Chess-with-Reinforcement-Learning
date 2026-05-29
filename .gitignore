@@ -1,0 +1,4 @@
+stockfish/
+v2_transformer/transformer_model.pth
+v2_transformer/transformer_model_1.pth
+checkpoints/
