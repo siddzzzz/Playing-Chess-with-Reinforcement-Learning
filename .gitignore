@@ -3,3 +3,16 @@ v2_transformer/transformer_model.pth
 v2_transformer/transformer_model_1.pth
 v2_transformer/loss.csv
 checkpoints/
+best_model.pth
+generate_notebook.py
+nnue_alpha_beta/checkpoints_1
+nnue_alpha_beta/stockfish.exe
+nnue_alpha_beta/openings.pgn
+nnue_alpha_beta/Resul
+nnue_alpha_beta/dataset.pt
+nnue_alpha_beta/cutechess-cli.exe
+nnue_alpha_beta/create_notebook.py
+nnue_alpha_beta/bayeselo.exe
+nnue_alpha_beta/bayes.script
+nnue_alpha_beta/benchmark_custom.pgn
+nnue_alpha_beta/benchmark.pgn
